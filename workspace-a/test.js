@@ -1,0 +1,1 @@
+console.log('Faking jest for workspace A')
